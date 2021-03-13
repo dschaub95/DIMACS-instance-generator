@@ -2,6 +2,10 @@
 Code from the 8th DIMACS Implementation Challenge: The Traveling Salesman Problem
 http://dimacs.rutgers.edu/archive/Challenges/TSP/download.html
 
+run: 	1. sudo apt-get install build-essential
+	2. make depend
+	3. make
+	
 This directory contains the Makefile and source code for five programs
 to be used in the DIMACS TSP Challenge.
 
